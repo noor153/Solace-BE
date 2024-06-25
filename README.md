@@ -71,3 +71,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+## For Solace Task 
+
+go to this API 
+
+http://localhost:3333/graphql
+
+to run your needed query 
+
+the id parameter is renamed as userId and it should be a number.
